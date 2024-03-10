@@ -1,0 +1,50 @@
+
+.slider {
+    margin-bottom: 100px;
+}
+
+.load-more span{
+    display: none;
+}
+.p-name {
+    text-align: center;
+    margin-top: 70px;
+}
+.footer {
+    width: 100%; 
+}
+
+p {
+    display: block;
+}
+
+.card {
+    margin-top: 80px
+}
+
+.jumbotron-fluid {
+    margin-top: 100px;
+}
+
+.card-header {
+    margin-top: 300px;
+    
+}
+.card-body {
+    background: #2c3338;
+}
+.card-title {
+    color: white;
+}
+
+.card-text {
+     color: white;
+}
+
+.slider {
+    margin-bottom: 100px;
+}
+
+.load-more span{
+    display: none;
+}
